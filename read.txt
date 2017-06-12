@@ -7,6 +7,3 @@ SUCCESS
 SUCCESS!
 Використовуємо тимчасове сховище 'git stash'
 SUCCESS!
-Переглядаємо історію commit-ів за допомогою 'git log'
-SUCCESS!
-Відміняємо commit з 'git revert'
